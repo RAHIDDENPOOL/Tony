@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task 2.0</string>
+    <string name="congratulationsBoy">Поздравляем! Скорее всего у Вас будет мальчик!</string>
+    <string name="congratulationsGirl">Поздравляем! Скорее всего у Вас будет девочка!</string>
+    <string name="Boy">Мальчик</string>
+    <string name="Girl">Девочка</string>
+    <string name="procentBoy"><font color="#313131">Вероятность мальчика</font> <font color="#BA7171">60%</font></string>
+    <string name="procentGirl"><font color="#313131">Вероятность девочки</font> <font color="#BA7171">60%</font></string>
+</resources>
